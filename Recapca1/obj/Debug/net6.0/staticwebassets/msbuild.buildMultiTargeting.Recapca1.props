@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Recapca1.props" />
+</Project>
